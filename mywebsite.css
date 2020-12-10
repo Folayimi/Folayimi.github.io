@@ -1,12 +1,12 @@
 .head_container{
     background-color: red;
-    border-radius: 15px;
+    border-radius: 15px; 
     width:100%;
     height:10px;
 }
 .florinfix_style{
     color: gold;
-    font-family: 'Forte';
+    font-family: 'Cooper Black';
     font-size: 30px;
     padding-left: 40px;
     padding-right: 10px;
