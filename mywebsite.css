@@ -1,0 +1,75 @@
+@viewport{
+    width: device-width;
+    zoom: 1.0;
+}
+@-ms-viewport{
+    width: device-width;
+}
+
+.head_container{
+    background-color: red;
+    border-radius: 15px;
+    width:100%;
+    height:10px;
+}
+.florinfix_style{
+    color: gold;
+    font-family: 'Cooper Black';
+    font-size: 30px;
+    padding-left: 40px;
+    padding-right: 10px;
+    text-decoration: none;
+    text-shadow: orange 0 0 3px, black 6px 6px  10px;
+}
+.table_property{
+    width: 100%;
+    background-color: orange;
+}
+.list_type{
+    list-style-type: circle;
+    list-style-position: outside;
+}
+.field_property{
+    border-radius: 10px;
+    height: 25px;
+}
+button{
+    background-color: white;
+    border-color:transparent;
+    color: red;
+    font-size:18px;
+    font-family:"Cooper Black";
+    border-radius: 6px;
+    padding-right:10px;
+    height: 25px;
+    /*border-collapse: green;*/
+}
+.menu{
+    background-color: red;
+    border-color:transparent;
+    border-radius: 6px;
+    height: 50px;
+}
+hr{
+    width: 35px;
+    height: 2px;
+    color: orange;
+}
+#text{
+    color: blue;
+    font-family: "Cooper Black";
+    text-shadow: gray 0 0 3px, black 4px 4px  10px;
+}
+/*p[text-color="red"]{
+    color: red;
+}*/
+
+/*p[text-color]{
+    color: red;
+}*/
+
+/*[class*="bo"]{
+    color: blue;
+    font-family: "Cooper Black";
+    text-shadow: gray 0 0 3px, black 4px 4px  10px;
+}*/
